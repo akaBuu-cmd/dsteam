@@ -12302,7 +12302,8 @@ h5,
 
 .owl-carousel.home-slider .slider-item .slider-text h1 span {
   font-weight: 800;
-  color: #ffffff;
+  color: #000000;
+  -webkit-text-stroke: 1px white
 }
 
 @media (max-width: 991.98px) {
